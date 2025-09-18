@@ -1,17 +1,15 @@
-# Gaming Notes 🎮  
+# Gaming Notes 🎮
 
-I've been a gamer since 1982 – here’s a collection of favorites and little memories.  
+Gaming has been part of my life since 1982 – starting with the C64.  
+This repo is a mix of memories, guides, and retro knowledge.  
 
-## 🕹️ All-time favorites
-- **The Elder Scrolls series** – exploring Tamriel never gets old  
-- **Day of the Tentacle** – funniest point & click ever  
-- **TMNT: Shredder’s Revenge** – pure arcade vibes  
-
-## 📚 To be added
-- More retro favorites (C64, Amiga, early PC classics)  
-- Xbox highlights  
-- Notes on games I’m currently playing  
+## Content
+- [Favorites list](favorites.md)  
+- [C64 classics](c64-classics.md)  
+- [Atari 2600 memories](atari-2600.md)  
+- [The Elder Scrolls modding setup](tes-modding-setup.md)  
+- [Retro arcade vibes](retro-arcade.md)  
 
 ---
 
-🕹️ Press start – this repo will grow over time.  
+🕹️ Games are not just fun – they are history, culture, and a way of thinking.
